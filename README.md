@@ -2,6 +2,8 @@
 
 Veeam　Enterprise Manager (ユーザ向けバックアップ・リストアポータル)を日本語で利用する為のGoogle Chrome向けプラグインです
 
+![main screen](/images/mainvem.png)
+
 ## 📗 インストール方法
 * Chromeの右上のメニューから「その他のツール」→「拡張機能」を選択します
 * 新しいタブで「拡張機能」が表示されます
