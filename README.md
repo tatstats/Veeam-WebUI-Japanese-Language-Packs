@@ -1,6 +1,6 @@
 # Japanese UI Plugin for Veeam Enterprise Manager (Google Chrome Extension)
 
-Veeam　Enterprise Manager (ユーザ向けバックアップ・リストアポータル)を日本語で利用する為のGoogle Chrome向けプラグインです
+Veeam　Enterprise Manager (ユーザ向けバックアップ・リストアポータル)を日本語で利用する為のGoogle Chrome向けプラグイン
 
 ![main screen](Veeam-JP-WebUI-Beta-1.0.1R1/images/mainvem.png)
 
